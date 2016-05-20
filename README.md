@@ -1,7 +1,10 @@
 # korubak-hexo-blog-src
 
-## STEPS of WRITING a BLOG
+## steps of migration
 
 ### install git
 
 ### install hexo
+$ npm install -g hexo-cli
+$ npm install hexo-deployer-git --save
+
