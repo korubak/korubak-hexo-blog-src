@@ -5,7 +5,9 @@
 ### install git
 
 ### install hexo
-$ npm install -g hexo-cli
+$ sudo npm install -g hexo-cli
 
-$ npm install hexo-deployer-git --save
+$ sudo npm install hexo --no-optional
+
+$ sudo npm install hexo-deployer-git --save
 
