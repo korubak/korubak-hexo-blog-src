@@ -11,3 +11,8 @@ $ sudo npm install hexo --no-optional
 
 $ sudo npm install hexo-deployer-git --save
 
+### write a article 
+
+$ hexo new title
+$ hexo clean
+$ hexo deploy -g
